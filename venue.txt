@@ -1,0 +1,52 @@
+<h1>Local information</h1>
+
+<h2>Venue location</h2>
+<p> The events will take place at the <a href="https://www.chalmers.se/en/about-chalmers/premises-and-campus/Pages/find-your-way-to-chalmers.aspx">
+Chalmers Campus Johanneberg</a>.</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2132.626971513628!2d11.975934515585621!3d57.6888172484919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff36b628efec3%3A0xc148ed83d6f0a03!2sChalmers+Tekniska+H%C3%B6gskola!5e0!3m2!1ssv!2sse!4v1512595970491" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+<h3>Getting around</h3>
+<p>
+TBA
+</p>
+
+
+<h2>Getting to Gothenburg</h2>
+
+<p><b>Flights:</b> Gothenburg is served by an international airport
+G&ouml;teborg Landvetter Airport (IATA code: GOT). It is Sweden's second
+largest airport with many daily flights from all of the major hubs in
+Europe. </p>
+
+<p><b>From airport to hotel by taxi:</b> Such a taxi ride is likely to
+cost around 450-550 SEK. All taxis accept card payments, and offer
+fixed price from the airport to the centre.
+We recommed checking the price with your driver before entering the taxi,
+as prices may vary between companies. Reputable taxi companies in
+Gothenburg include: <a href="http://www.taxigoteborg.se/En/Home">Taxi
+Göteborg</a> and <a href="https://www.taxikurir.se/">Taxi
+Kurir</a>.</p>
+
+<p><b>From airport to hotel by bus:</b> One can catch the <a
+href="https://www.flygbussarna.se/en/Landvetter">Flygbussarna</a> airport
+coach from outside the check-in hall of the airport. This coach
+stops at the central station in Gothenburg (Nils
+Ericson Terminalen), and at the Korsv&auml;gen bus stop</p>
+
+
+<h2>Accommodation</h2>
+
+You may consider these choices for accommodation:
+
+<ul>
+  <li><a href="http://www.panorama.se/">Panorama Hotel</a> (10 minutes walk from the campus)</li>
+  <li><a href="http://hotellonyxen.se/home/#welcome">Hotel Onyxen by Scandinavium</a></li>
+  <li><a href="http://www.hotelflora.se/en/">Hotel Flora by Grönsakstorget</a></li>
+  <li><a href="https://ligula.se/en/profilhotels/hotel-opera/">Grand Hotel by Centralstationen</a></li>
+  <li><a href="https://www.sgsveckobostader.se/en">SGS Veckobostäder</a> (dormitory, 10 minutes walk from the campus)</li>
+</ul>
+
+Other options can be found <a href="http://www.goteborg.com/en/bo/">here</a> or on your favourite accommodation website.
+
+

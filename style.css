@@ -1,0 +1,219 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  height: 100%;
+  width: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+body {
+  background: url(gothenburg.jpg) center center fixed;
+}
+
+.titlepage {
+  min-height: 100vh;
+  color: black;
+}
+
+.titlebox, .titlebox_subtitle {
+  font-family: 'Lora', serif;
+}
+
+.titlebox {
+  position: relative;
+  padding: 3vw;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  text-align: center;
+  background: rgba(255, 255, 255, 1.0);
+  border-radius: 6vw;
+  font-size: 20vw;
+  display: inline-block;
+}
+
+.titlebox_subtitle {
+  position: relative;
+  font-size: 5vw;
+  top: -5vw;
+}
+
+.titlebox_padding { min-height: 20vh; }
+.titlebox_container { min-height: 25vh; }
+.newsbox_container { min-height: 12vh; margin-top: 5vh; }
+
+.newsbox, .blackbox {
+  font-size: 3vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+pre {
+  text-align: left;
+}
+
+.newsbox {
+  position: relative;
+  padding: 1vh;
+  padding-left: 3vh;
+  padding-right: 3vh;
+  text-align: center;
+  background: rgba(255, 255, 255, 1.0);
+  border-radius: 1vw;
+  display: inline-block;
+  color: black;
+}
+
+.linkbox {
+  display: inline-block;
+}
+
+.blackbox {
+  margin: 1vh;
+  padding: 2vh;
+  padding-left: 3.5vh;
+  padding-right: 3.5vh;
+  background: rgba(0, 0, 0, 0.7);
+  border-radius: 2vh;
+  color: white;
+  display: inline-block;
+}
+
+.toprightcorner {
+  position: fixed;
+  top:0px;
+  right:0px;
+}
+
+.page {
+  padding-bottom: 35pt;
+  text-align: center;
+}
+
+.textbox, .footer {
+  text-align: left;
+  margin: 10pt;
+  margin-bottom: 20pt;
+  padding: 8pt;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  padding-bottom: 30pt;
+  border-radius: 14pt;
+  display: inline-block;
+  font-size: 13pt;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  background-color: rgb(255, 255, 255);
+  max-width: 85vw;
+}
+
+.footer {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 2vh;
+  padding-left: 60pt;
+  padding-right: 40pt;
+  text-align: left;
+  color: white;
+}
+
+h1 {
+  position: relative;
+  font-size: 32pt;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0pt;
+  margin: 0pt;
+  margin-top: 15pt;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(230, 0, 0, 1.0);
+  font-size: 16pt;
+}
+
+a {
+  color: rgba(70, 110, 200, 1.0);
+}
+
+.logo {
+  margin: 15pt;
+}
+
+pre, code {
+  color: white;
+  border-radius: 3pt;
+  background-color: rgb(100,100,100);
+  font-size: 11pt;
+}
+
+pre {
+  padding: 4pt;
+  padding-left: 1vw;
+  overflow-x: scroll;
+}
+
+code {
+  padding-left: 4pt;
+  padding-right: 4pt;
+}
+
+h1, h2 {
+  font-family: 'Bree Serif', serif;
+}
+
+li {
+  padding-bottom: 6pt;
+}
+
+.wrapper { min-height: 100%; }
+
+.footnotelink {
+  color: white;
+}
+
+.mobile_version { visibility: visible; color: white; }
+
+.desktop_version { visibility: hidden; color: white; }
+
+@media screen and (min-width: 700px) {
+  /* the follow applies for desktops */
+  body {
+    background: url(gothenburg.jpg) no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  }
+  .titlebox {
+    border-radius: 4vw;
+    font-size: 11vw;
+  }
+  .titlebox_subtitle {
+    position: relative;
+    font-size: 2.5vw;
+    top: -2.5vw;
+  }
+  .textbox, .footer {
+    margin-left: 0pt;
+    margin-right: 0pt;
+    width:60%;
+    min-width: 400px;
+    padding-left: 45pt;
+    padding-right: 45pt;
+  }
+  .titlebox_padding { min-height: 8vh; }
+  .titlebox_container { min-height: 60vh; }
+  .mobile_version { visibility: hidden; }
+  .desktop_version { visibility: visible; }
+}
+
+@media screen and (max-height: 1000px) and (max-width: 1500px) {
+  body { background-image: url(gothenburg-1000.jpg);
+         background-repeat: repeat;
+         background-position: top;
+         background-attachment: fixed; }
+  .titlebox_container { min-height: 70vh; }
+}

@@ -1,0 +1,23 @@
+<h1>Excursion to Marstrand</h1>
+
+<h2>Excursion Schedule: Thursday 10 August</h2>
+<ul>
+<li>14:30 &nbsp Departure from conference venue</li>
+<li>17:00 &nbsp Arrival at Marstrand, followed by a guided tour ending in Carlsten fortress, welcome drinks there</li>
+<li>18:30 &nbsp 3-course dinner</li>
+<li>22:00 &nbsp Boat to the bus and bus to Gothenburg</li>
+</ul>
+
+<p> <img src="Archipelago.jpg" style="width: 50%; float:right; padding-left:15px;">
+We will have the conference excursion on Thusday 10 August. The
+excursion consists of a boat trip to, and a stay on, the picturesque
+island of <a href="http://www.marstrand.se/en/">Marstrand</a>. A boat
+picks us up directly at the conference venue, and takes us through the
+harbour area, towards the open sea, turning north, through the
+archipelago, all the way to Marstrand. There, we will have a guided
+tour through the old town of Marstrand, followed by a dinner in the
+dramatic castle. Afterwards, we take short ferry to the main land,
+where buses take us back to Gothenburg.</p>
+
+<p><img src="Marstrand.jpg" style="width: 100%; padding-top:10px;"></p>
+
