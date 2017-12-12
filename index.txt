@@ -2,7 +2,7 @@
 <h2 style="text-align: center; margin-top: -1em">11-13 June 2018</h1>
 
 <p><figure class="bigfig">
-  <img src="kungsportsplatsen_crop.jpg" style="width: 100%;" alt="Per Pixel Petersson/imagebank.sweden.se"/>
+  <img src="kungsportsplatsen.jpg" style="width: 100%;" alt="Per Pixel Petersson/imagebank.sweden.se"/>
   <figcaption class="appear">
     <div class="figcaption">Per Pixel Petersson/<a href="http://imagebank.sweden.se/gothenburg+skyline/g%25C3%25B6teborg/gothenburg+%2528g%25C3%25B6teborg%2529/5223">imagebank.sweden.se</a>
     </div>
