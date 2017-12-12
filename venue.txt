@@ -6,11 +6,6 @@ Chalmers Campus Johanneberg</a>.</p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2132.626971513628!2d11.975934515585621!3d57.6888172484919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff36b628efec3%3A0xc148ed83d6f0a03!2sChalmers+Tekniska+H%C3%B6gskola!5e0!3m2!1ssv!2sse!4v1512595970491" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
-<h3>Getting around</h3>
-<p>
-TBA
-</p>
-
 
 <h2>Getting to Gothenburg</h2>
 
