@@ -25,7 +25,8 @@ formally reviewed either before or after the Symposium. Both the pre-symposium
 and the post-symposium refereeing process will select a subset of the articles
 for formal publication.</p>
 
-<p> TFP 2018 will be the main event of a pair of functional programming events. TFP 2018 running from 11 to 13 June will be accompanied by the <a href="http://www.ccs.neu.edu/home/heather/tfpie2018/">International Workshop on Trends in Functional Programming in Education (TFPIE)</a>, which will take place on 14 June.</p>
+<p>
+TFP 2018 will be the main event of a pair of functional programming events. TFP 2018 running from 11 to 13 June will be accompanied by the <a href="http://www.ccs.neu.edu/home/heather/tfpie2018/">International Workshop on Trends in Functional Programming in Education (TFPIE)</a>, which will take place on 14 June.</p>
 
 <p> The events will take place at the <a href="https://www.chalmers.se/en/about-chalmers/premises-and-campus/Pages/find-your-way-to-chalmers.aspx">
 Chalmers Campus Johanneberg</a> in Gothenburg.</p>
