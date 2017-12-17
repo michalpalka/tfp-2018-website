@@ -26,8 +26,8 @@ Kurir</a>.</p>
 <p><b>From airport to hotel by bus:</b> One can catch the <a
 href="https://www.flygbussarna.se/en/Landvetter">Flygbussarna</a> airport
 coach from outside the check-in hall of the airport. This coach
-stops at the central station in Gothenburg (Nils
-Ericson Terminalen), and at the Korsv&auml;gen bus stop</p>
+stops at the central station in Gothenburg (Nils Ericson
+Terminalen), and at the Korsv&auml;gen bus stop</p>
 
 
 <h2>Accommodation</h2>
@@ -43,5 +43,3 @@ You may consider these choices for accommodation:
 </ul>
 
 Other options can be found <a href="http://www.goteborg.com/en/bo/">here</a> or on your favourite accommodation website.
-
-
