@@ -48,7 +48,8 @@ TBA
 DATES-TABLE
 
 <h2>Sponsors</h2>
-<a href="https://www.chalmers.se/en/areas-of-advance/ict/Pages/default.aspx"><img src="AOA_ICT_blue-transp.png" width=340/></a>
+<a class="slogo" href="https://www.chalmers.se/en/areas-of-advance/ict/Pages/default.aspx"><img src="AOA_ICT_blue-transp.png" width=340/></a>
+<a class="slogo" href="http://bit.ly/2h8pHwN"><img src="Erlang_Solutions_logo.png" width=160/></a>
 
 <h2>About Gothenburg</h2>
 

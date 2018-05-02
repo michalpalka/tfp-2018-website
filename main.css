@@ -61,6 +61,10 @@ nav {
     width: 875px;
 }
 
+a.slogo {
+    margin: 10px;
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
