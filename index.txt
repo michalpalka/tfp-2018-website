@@ -41,7 +41,8 @@ Chalmers Campus Johanneberg</a> in Gothenburg.</p>
 <h2>Invited speakers</h2>
 
 <p>
-TBA
+Simon Thompson, University of Kent (UK)<br/>
+Neel Krishnaswami, University of Cambridge (UK)
 </p>
 
 <h2>Important dates</h2>
