@@ -135,6 +135,10 @@ h3 {
     margin: 3px 0px;
 }
 
+span.paper-title {
+  font-style: italic;
+}
+
 dt {
     font-weight: bold;
 }
