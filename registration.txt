@@ -1,3 +1,33 @@
 <h1>Registration</h1>
 
-TBA
+<h2>Registration fees</h2>
+
+The registration fees cover attending both TFP and <a href="http://www.ccs.neu.edu/home/heather/tfpie2018/">TFPIE</a>, and are as follows:
+<ul>
+<li>The full fee is 3700 SEK (excl. VAT)</li>
+<li>The student fee is 2600 SEK (excl. VAT)</li>
+</ul>
+
+Both fees include participation in the <a href="excursion.html">social dinner</a>. Additional
+tickets for the social dinner may be purchased for 800 SEK (excl. VAT).
+
+Please read the notice on taxation rules below.
+
+<h2>Important Notice On Taxation</h2>
+
+<ul>
+<li>In accordance with Swedish Value Added Tax (VAT) requirements, any company or organization from EU with a registered VAT number or equivalent tax registration number is NOT required to pay Swedish VAT for registration fee attending the conference in Sweden.</li>
+<li>Any company or organization outside EU with a registered tax registration number, or a valid company name is NOT required to pay Swedish VAT for registration fee attending the conference in Sweden.</li>
+<li>Delegates from Sweden, as well as delegates from EU who do not provide a VAT or equivalent tax identification number, are required to pay VAT.</li>
+<li>Private persons (i.e. not employed, not students) are required to pay VAT.</li>
+</ul>
+
+<h2>Registration links</h2>
+
+Please use the following registration links:
+<ul>
+<li><a href="http://www.trippus.net/TFP2018delegate">Registration individuals backed by organisations</a></li>
+<li><a href="http://www.trippus.net/TFP2018Student">Registration for students</a></li>
+<li><a href="http://www.trippus.net/TFP2018Private">Registration for private individuals</a></li>
+</ul>
+

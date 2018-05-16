@@ -52,6 +52,7 @@ pages = [("index","TFP 2018",True,True),
          ("program","Program",True,True),
          ("cfp","Call for Papers",True,True),
          ("registration","Registration",True,True),
+         ("excursion","Social Dinner",True,True),
          ("venue","Local Information",True,True)]
 
 # generate html
