@@ -24,7 +24,7 @@ Please read the notice on taxation rules below.
 
 <h2>Registration links</h2>
 
-Please use the following registration links:
+Please use the one of the following registration links depending on your status:
 <ul>
 <li><a href="http://www.trippus.net/TFP2018delegate">Registration individuals backed by organisations</a></li>
 <li><a href="http://www.trippus.net/TFP2018Student">Registration for students</a></li>
