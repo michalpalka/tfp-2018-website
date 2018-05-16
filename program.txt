@@ -1,6 +1,4 @@
-<h1>Program</h1>
-
-<h2>Accepted contributions</h2>
+<h1>Accepted contributions</h1>
 
 <ul>
 <li>Martin Handley and Graham Hutton. <span class="paper-title">Improving Haskell</span></li>
