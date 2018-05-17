@@ -5,7 +5,7 @@
 <li>Jesús López-González and Juan Manuel Serrano. <span class="paper-title">Towards Optic-Based Algebraic Theories: the Case of Lenses</span></li>
 <li>Paul Keir, Andrew Gozillon and Hossein Haeri. <span class="paper-title">Intrinsic Currying for C++ Template Metaprograms</span></li>
 <li>Marco T. Morazan and Shamil Dzhatdoyev. <span class="paper-title">On Optimizing Bignum Multiplication</span></li>
-<li>Anders Kiel Hovgaard, Troels Henriksen and Martin Elsman. <span class="paper-title">Research Paper: High-performance defunctionalization in Futhark</span></li>
+<li>Anders Kiel Hovgaard, Troels Henriksen and Martin Elsman. <span class="paper-title">High-performance defunctionalization in Futhark</span></li>
 <li>Youyou Cong and Kenichi Asai. <span class="paper-title">Shifting and Resetting in the Calculus of Constructions</span></li>
 <li>Maximilian Algehed, Sólrún Halla Einarsdóttir, Alex Gerdes and Patrik Jansson. <span class="paper-title">Type Safe Interpreters for Free</span></li>
 <li>Shigeki Suwa, Hiroaki Fukuda and Isao Sasano. <span class="paper-title">Liquid: A concurrent calculus with declaring first-order asynchronous functions</span></li>
