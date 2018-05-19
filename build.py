@@ -49,7 +49,7 @@ dates_table = """<table class="dates">
 # a list, where each item is: filename, title, in_menu, is_local page
 
 pages = [("index","TFP 2018",True,True),
-         ("program","Accepted Contributions",True,True),
+         ("program","Programme",True,True),
          ("cfp","Call for Papers",True,True),
          ("registration","Registration",True,True),
          ("excursion","Social Dinner",True,True),

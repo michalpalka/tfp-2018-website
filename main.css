@@ -116,6 +116,25 @@ h3 {
   padding-top: 3pt;
 }
 
+span.schedule-time {
+  font-weight: bold;
+}
+
+span.paper-title-s {
+  font-style: italic;
+  display: block;
+}
+
+div.session-head {
+  margin-top: 7px;
+  margin-bottom: 3px;
+}
+
+div.session-paper {
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
 .news {
     float: right;
     margin: 50px 0 60px 30px;
