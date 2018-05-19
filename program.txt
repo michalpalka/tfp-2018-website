@@ -1,6 +1,6 @@
 <h1>Programme</h1>
 
-<h2>Monday: 11 June</h2>
+<h2>Monday, 11 June</h2>
 
 <div class=session-head>
 <span class=schedule-time>9:20&mdash;9:30:</span> Opening<br/>
@@ -60,7 +60,7 @@
 </div>
 
 
-<h2>Tuesday: 12 June</h2>
+<h2>Tuesday, 12 June</h2>
 
 
 <div class=session-head>
@@ -103,7 +103,7 @@
 
 
 
-<h2>Wednesday: 13 June</h2>
+<h2>Wednesday, 13 June</h2>
 
 
 <div class=session-head>
