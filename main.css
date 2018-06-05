@@ -125,8 +125,20 @@ span.paper-title-s {
   display: block;
 }
 
+span.paper-title-s2 {
+  font-style: italic;
+}
+
+span.abstract {
+  margin-left: 20pt;
+  margin-right: 20pt;
+  margin-top: 5pt;
+  margin-bottom: 5pt;
+  display: block;
+}
+
 div.session-head {
-  margin-top: 7px;
+  margin-top: 20px;
   margin-bottom: 3px;
 }
 

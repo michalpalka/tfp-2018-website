@@ -10,6 +10,11 @@
 <div class=session-head>
 <span class=schedule-time>9:30&mdash;10:30:</span> Invited talk
 </div>
+<div class=session-paper>
+<span class=paper-title-s2>Refactoring reflected,</span> <span class=paper-authors>Simon Thompson</span>
+<span class=abstract>The team at Kent have built tools for refactoring programs in Haskell, Erlang and, most recently, OCaml. This talk will reflect on what we have learned in the process about tool building and refactoring for functional languages - and indeed about the languages themselves - drawing examples from past and current work. 
+</span>
+</div>
 
 
 <div class=session-head>
@@ -108,6 +113,7 @@
 
 <div class=session-head>
 <span class=schedule-time>9:30&mdash;10:30:</span> Invited talk
+<span class=paper-title-s></span> <span class=paper-authors>Neel Krishnaswami</span>
 </div>
 
 
