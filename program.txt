@@ -12,7 +12,12 @@
 </div>
 <div class=session-paper>
 <span class=paper-title-s2>Refactoring reflected,</span> <span class=paper-authors>Simon Thompson</span>
-<span class=abstract>The team at Kent have built tools for refactoring programs in Haskell, Erlang and, most recently, OCaml. This talk will reflect on what we have learned in the process about tool building and refactoring for functional languages – and indeed about the languages themselves – drawing examples from past and current work. 
+<span class=abstract>
+The team at Kent have built tools for refactoring programs in Haskell, Erlang
+and, most recently, OCaml. This talk will reflect on what we have learned in
+the process about tool building and refactoring for functional languages – and
+indeed about the languages themselves – drawing examples from past and current
+work. 
 </span>
 </div>
 
@@ -113,9 +118,21 @@
 
 <div class=session-head>
 <span class=schedule-time>9:30&mdash;10:30:</span> Invited talk
-<span class=paper-title-s></span> <span class=paper-authors>Neel Krishnaswami</span>
 </div>
 
+<div class=session-paper>
+<span class=paper-title-s2>Retrofitting Purity with Comonads,</span> <span class=paper-authors>Neel Krishnaswami</span>
+<span class=abstract>
+It is by now well-known how to embed effectful language features
+such as I/O and state into purely functional languages using a monadic
+type discipline. But if we already have an effectful language, then
+it is natural to ask if there a way to carve out a pure subset of it.
+In this talk, I will show that this is indeed possible, by using the
+dual to monads – comonads! Furthermore, this approach also casts into
+type-theoretic our systems-programming friends' use of capability-safe
+programming.
+</span>
+</div>
 
 <div class=session-head>
 <span class=schedule-time>10:30&mdash;11:00:</span> Break
