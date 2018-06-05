@@ -12,7 +12,7 @@
 </div>
 <div class=session-paper>
 <span class=paper-title-s2>Refactoring reflected,</span> <span class=paper-authors>Simon Thompson</span>
-<span class=abstract>The team at Kent have built tools for refactoring programs in Haskell, Erlang and, most recently, OCaml. This talk will reflect on what we have learned in the process about tool building and refactoring for functional languages - and indeed about the languages themselves - drawing examples from past and current work. 
+<span class=abstract>The team at Kent have built tools for refactoring programs in Haskell, Erlang and, most recently, OCaml. This talk will reflect on what we have learned in the process about tool building and refactoring for functional languages – and indeed about the languages themselves – drawing examples from past and current work. 
 </span>
 </div>
 
