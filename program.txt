@@ -17,7 +17,7 @@ The team at Kent have built tools for refactoring programs in Haskell, Erlang
 and, most recently, OCaml. This talk will reflect on what we have learned in
 the process about tool building and refactoring for functional languages – and
 indeed about the languages themselves – drawing examples from past and current
-work. 
+work.
 </span>
 </div>
 
@@ -74,7 +74,7 @@ work.
 
 
 <div class=session-head>
-<span class=schedule-time>9:30&mdash;10:30</span>
+<span class=schedule-time>9:30&mdash;10:30</span> Session chair: Patrik Jansson
 </div>
 
 <div class=session-paper>
