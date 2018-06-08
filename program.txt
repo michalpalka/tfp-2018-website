@@ -91,7 +91,7 @@ work.
 
 
 <div class=session-head>
-<span class=schedule-time>11:00&mdash;12:00</span>
+<span class=schedule-time>11:00&mdash;12:00</span> Session chair: Simon Thompson
 </div>
 
 <div class=session-paper>
@@ -156,7 +156,7 @@ programming.
 </div>
 
 <div class=session-paper>
-<span class=schedule-time>13:30&mdash;14:30</span><br/>
+<span class=schedule-time>13:30&mdash;14:30</span> Session chair: Peter Achten<br/>
 </div>
 <div class=session-paper>
 <span class=paper-title-s>Improving Haskell,</span> <span class=paper-authors>Martin Handley and Graham Hutton</span>
