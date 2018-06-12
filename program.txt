@@ -63,7 +63,7 @@ work.
 <span class=schedule-time>16:00&mdash;17:00:</span> Session chair: Hans-Wolfgang Loidl<br/>
 </div>
 <div class=session-paper>
-<span class=paper-title-s>Intrinsic Currying for C++ Template Metaprograms,</span> <span class=paper-authors>Paul Keir, Andrew Gozillon and Hossein Haeri</span>
+<span class=paper-title-s>Intrinsic Currying for C++ Template Metaprograms (reviewed paper),</span> <span class=paper-authors>Paul Keir, Andrew Gozillon and Hossein Haeri</span>
 </div>
 <div class=session-paper>
 <span class=paper-title-s>On Optimizing Bignum Multiplication,</span> <span class=paper-authors>Marco T. Morazan and Shamil Dzhatdoyev</span>
@@ -81,7 +81,7 @@ work.
 <span class=paper-title-s>Active-Code Reloading in the OODIDA Platform,</span> <span class=paper-authors>Gregor Ulm, Emil Gustavsson and Mats Jirstrand</span>
 </div>
 <div class=session-paper>
-<span class=paper-title-s>Towards Optic-Based Algebraic Theories: the Case of Lenses,</span> <span class=paper-authors>Jesús López-González and Juan Manuel Serrano</span>
+<span class=paper-title-s>Towards Optic-Based Algebraic Theories: the Case of Lenses (reviewed paper),</span> <span class=paper-authors>Jesús López-González and Juan Manuel Serrano</span>
 </div>
 
 
@@ -159,7 +159,7 @@ programming.
 <span class=schedule-time>13:30&mdash;14:30:</span> Session chair: Peter Achten<br/>
 </div>
 <div class=session-paper>
-<span class=paper-title-s>Improving Haskell,</span> <span class=paper-authors>Martin Handley and Graham Hutton</span>
+<span class=paper-title-s>Improving Haskell (reviewed paper),</span> <span class=paper-authors>Martin Handley and Graham Hutton</span>
 </div>
 <div class=session-paper>
 <span class=paper-title-s>Graph Reduction Hardware Revisited,</span> <span class=paper-authors>Robert Stewart, Evgenij Belikov and Hans-Wolfgang Loidl</span>
