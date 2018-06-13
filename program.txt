@@ -11,7 +11,7 @@
 <span class=schedule-time>9:30&mdash;10:30:</span> Invited talk
 </div>
 <div class=session-paper>
-<span class=paper-title-s2>Refactoring reflected,</span> <span class=paper-authors>Simon Thompson</span>
+<span class=paper-title-s2><a href="Simon_Thompson_talk.pdf">Refactoring reflected</a>,</span> <span class=paper-authors>Simon Thompson</span>
 <span class=abstract>
 The team at Kent have built tools for refactoring programs in Haskell, Erlang
 and, most recently, OCaml. This talk will reflect on what we have learned in
