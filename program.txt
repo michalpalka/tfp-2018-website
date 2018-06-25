@@ -121,7 +121,7 @@ work.
 </div>
 
 <div class=session-paper>
-<span class=paper-title-s2>Retrofitting Purity with Comonads,</span> <span class=paper-authors>Neel Krishnaswami</span>
+<span class=paper-title-s2><a href="slides/Neel_Krishnaswami.pdf">Retrofitting Purity with Comonads</a>,</span> <span class=paper-authors>Neel Krishnaswami</span>
 <span class=abstract>
 It is by now well-known how to embed effectful language features
 such as I/O and state into purely functional languages using a monadic
