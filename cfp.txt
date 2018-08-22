@@ -109,7 +109,7 @@ of the PC members shortly after the symposium has taken place.</p>
 <h3>Format</h3>
 <p>Papers must be written in English, and written using the LNCS style. For
 more information about formatting please consult <a
-href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">the
+href="http://www.springer.com/lncs">the
 Springer LNCS web site</a>.</p>
 
 <h2>Program Committee</h2>
@@ -139,5 +139,3 @@ Springer LNCS web site</a>.</p>
   <tr><td>Peter Sestoft,</td>                <td>IT University of Copenhagen (DK)</td></tr>
   <tr><td>Scott Owens,</td>                  <td>University of Kent (UK)</td></tr>
 </table>
-
-
